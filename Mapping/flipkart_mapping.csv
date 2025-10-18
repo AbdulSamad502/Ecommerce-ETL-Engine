@@ -1,0 +1,99 @@
+    OriginalColumn,StandardColumn
+    Seller GSTIN,Seller GSTIN
+    Invoice Number,Invoice Number
+    Invoice Date,Invoice Date
+    Invoice Type (B2B / B2C),Invoice Type
+    Transaction Type,Transaction Type
+    Order ID,Order ID
+    Dispatch ID,Shipment ID
+    Dispatch Date,Shipment Date
+    Order Date,Order Date
+    Line Item ID,Shipment Item ID
+    Quantity,Quantity
+    Product Title,Item Description
+    FSN,ASIN
+    SKU,SKU
+    Item Serial No.,Item Serial No.
+    HSN / SAC,HSN / SAC
+    Product Tax Code,Product Tax Code
+    Ship From City,Bill From City
+    Ship From State,Bill From State
+    Ship From Pincode,Bill From Pincode
+    Bill To Name,Bill To Name
+    Bill To Address Line1,Bill To Address Line1
+    Bill To Address Line2,Bill To Address Line2
+    Bill To City,Bill To City
+    Bill To State,Bill To State
+    Bill To Pincode,Bill To Pincode
+    Bill To Country,Bill To Country
+    Customer GSTIN,Customer GSTIN
+    Place of Supply,Place of Supply
+    Shipping Address Name,Shipping Address Name
+    Shipping Address Line1,Shipping Address Line1
+    Shipping Address Line2,Shipping Address Line2
+    Shipping Address City,Shipping Address City
+    Shipping Address State,Shipping Address State
+    Shipping Address Pincode,Shipping Address Pincode
+    Shipping Address Country,Shipping Address Country
+    Logistics Partner,Logistics Partner
+    Tracking ID,Tracking ID
+    Product Price,Item Price
+    Seller Discount,Item Discount
+    Flipkart Discount,Item Promotional Discount
+    Cashback Discount,Item Shipping Discount
+    Shipping Fee,Shipping Charge
+    Shipping Discount,Shipping Discount
+    Packaging Fee,Packing Fee
+    Packaging Fee Taxable Value,Packing Fee Taxable Value
+    Collection Fee,COD Fee
+    Collection Fee Taxable Value,COD Fee Taxable Value
+    Fixed Fee,Platform Fee
+    Fixed Fee Taxable Value,Platform Fee Taxable Value
+    Commission Fee,Marketplace Fee Amount
+    Commission Fee Taxable Value,Marketplace Fee GST Amount
+    Total Item Taxable Value,Total Item Taxable Value
+    CGST %,CGST %
+    CGST Amount,CGST Amount
+    SGST %,SGST %
+    SGST Amount,SGST Amount
+    IGST %,IGST %
+    IGST Amount,IGST Amount
+    UTGST %,UTGST %
+    UTGST Amount,UTGST Amount
+    Cess %,Cess %
+    Cess Amount,Cess Amount
+    Total Tax Amount,Total Tax Amount
+    Total Invoice Value,Total Invoice Value
+    Invoice Currency,Invoice Currency
+    Payment Method,Payment Method
+    Reverse Charge Applicable (Y/N),Reverse Charge Applicable (Y/N)
+    TCS Type,TCS Type
+    TCS %,TCS %
+    TCS Amount,TCS Amount
+    TDS %,TDS %
+    TDS Amount,TDS Amount
+    Settlement ID,Settlement ID
+    Settlement Date,Settlement Date
+    Settlement Amount,Settlement Amount
+    Settlement Currency,Settlement Currency
+    Return Status,Return Status
+    Return Date,Return Date
+    Return Reason,Return Reason
+    Replacement Order ID,Replacement Order ID
+    Linked Original Order ID,Linked Original Order ID
+    Credit Note Number,Credit Note Number
+    Credit Note Date,Credit Note Date
+    PAN of Seller,PAN of Seller
+    TAN of Seller,TAN of Seller
+    ARN No.,ARN No.
+    Invoice Upload Status,Invoice Upload Status
+    Document Type (Invoice / Credit Note),Document Type (Invoice / Credit Note)
+    Supply Type (Interstate / Intrastate),Supply Type (Interstate / Intrastate)
+    Tax Category (Nil, Exempted, Taxable),Tax Category (Nil, Exempted, Taxable)
+    GST Filing Month,GST Filing Month
+    GST Filing Year,GST Filing Year
+    Upload Date,Upload Date
+    Report Run Date,Report Run Date
+    Report Period From,Report Period From
+    Report Period To,Report Period To
+    File Version,File Version

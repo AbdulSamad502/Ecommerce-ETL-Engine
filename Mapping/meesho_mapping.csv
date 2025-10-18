@@ -1,0 +1,61 @@
+OriginalColumn,StandardColumn
+Order Date,Order Date
+Order Number,Order ID
+Sub-Order Number,Shipment Item ID
+Item Name,Item Description
+Quantity,Quantity
+HSN Code,HSN / SAC
+Item Price,Item Price
+Discount,Item Discount
+Shipping Fee,Shipping Charge
+Packaging Fee,Packing Fee
+Collection Fee,COD Fee
+Fixed Fee,Platform Fee
+Commission Fee,Marketplace Fee Amount
+Total Taxable Value,Total Item Taxable Value
+CGST Amount,CGST Amount
+SGST Amount,SGST Amount
+IGST Amount,IGST Amount
+Total Tax Amount,Total Tax Amount
+Total Invoice Value,Total Invoice Value
+Payment Method,Payment Method
+TCS Amount,TCS Amount
+TDS Amount,TDS Amount
+GST Filing Month,GST Filing Month
+GST Filing Year,GST Filing Year
+Customer Name,Bill To Name
+Shipping Address Line 1,Shipping Address Line1
+Shipping Address Line 2,Shipping Address Line2
+Shipping City,Shipping Address City
+Shipping State,Shipping Address State
+Shipping Pincode,Shipping Address Pincode
+Shipping Country,Shipping Address Country
+Customer GSTIN,Customer GSTIN
+Place of Supply,Place of Supply
+Seller GSTIN,Seller GSTIN
+PAN,PAN of Seller
+TAN,TAN of Seller
+ARN Number,ARN No.
+Invoice Upload Status,Invoice Upload Status
+Document Type (Invoice / Credit Note),Document Type (Invoice / Credit Note)
+Supply Type (Interstate / Intrastate),Supply Type (Interstate / Intrastate)
+Tax Category (Nil / Exempted / Taxable),Tax Category (Nil, Exempted, Taxable)
+Return Status,Return Status
+Return Date,Return Date
+Return Reason,Return Reason
+Replacement Order Number,Replacement Order ID
+Linked Original Order Number,Linked Original Order ID
+Credit Note Number,Credit Note Number
+Credit Note Date,Credit Note Date
+Settlement ID,Marketplace Fee Type
+Settlement Date,Marketplace Fee %
+Settlement Amount,Marketplace Fee Amount
+Settlement Currency,Marketplace Fee GST %
+Upload Date,Upload Date
+Report Run Date,Report Run Date
+Report Period From,Report Period From
+Report Period To,Report Period To
+File Version,File Version
+Cashback Discount,Item Shipping Discount
+Seller Discount,Item Promotional Discount
+Platform Charges / Fees,Platform Fee
